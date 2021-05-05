@@ -1,5 +1,5 @@
 # html5-css3
- Exercises and studies through the ** Curso em Video **, available for free on the Youtube channel 
+ Exercises and studies through the *Curso em Video* , available for free on the Youtube channel 
 
 ## Some Projects
 ---
